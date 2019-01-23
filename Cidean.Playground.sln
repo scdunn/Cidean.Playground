@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSVImport", "src\CSVImport\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluentBuilder", "src\FluentBuilder\FluentBuilder.csproj", "{5C515A0D-E40B-4BC7-80D1-BC573A3440F2}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancelTask", "src\CancelTask\CancelTask.csproj", "{D719B701-E6AC-4B6B-AB7C-5ED19E13DB96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5C515A0D-E40B-4BC7-80D1-BC573A3440F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C515A0D-E40B-4BC7-80D1-BC573A3440F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C515A0D-E40B-4BC7-80D1-BC573A3440F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D719B701-E6AC-4B6B-AB7C-5ED19E13DB96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D719B701-E6AC-4B6B-AB7C-5ED19E13DB96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D719B701-E6AC-4B6B-AB7C-5ED19E13DB96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D719B701-E6AC-4B6B-AB7C-5ED19E13DB96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
