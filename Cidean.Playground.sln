@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancelTask", "src\CancelTas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqFirstVsSingle", "src\LinqFirstVsSingle\LinqFirstVsSingle.csproj", "{16A68899-BBFD-4878-BA15-7B15947324D0}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreOSPlatform", "src\CoreOSPlatform\CoreOSPlatform.csproj", "{939292D0-D409-44BD-A897-5C1E7D89E16B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{16A68899-BBFD-4878-BA15-7B15947324D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16A68899-BBFD-4878-BA15-7B15947324D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16A68899-BBFD-4878-BA15-7B15947324D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{939292D0-D409-44BD-A897-5C1E7D89E16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939292D0-D409-44BD-A897-5C1E7D89E16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939292D0-D409-44BD-A897-5C1E7D89E16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939292D0-D409-44BD-A897-5C1E7D89E16B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
